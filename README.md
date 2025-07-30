@@ -51,6 +51,21 @@ models/
 ├── americanSignLanguage.h5
 └── indianSignLanguage.h5
 
+## 📂 Datasets Used for Training
+
+The models in this project were trained using the following publicly available datasets from Kaggle:
+
+- 🔢 **Digit Sign Language (0–9)**:  
+  [Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
+
+- 🇮🇳 **Indian Sign Language (A–Z)**:  
+  [Indian Sign Language ISL](https://www.kaggle.com/datasets/prathumarikeri/indian-sign-language-isl)
+
+- 🇺🇸 **American Sign Language Digits (0–9)**:  
+  [ASL Digit Dataset](https://www.kaggle.com/datasets/rayeed045/american-sign-language-digit-dataset)
+
+These datasets were preprocessed and used to train the models included in this app.
+
 ## 🤝 Contributing
 Feel free to fork this repo and improve it!
 
