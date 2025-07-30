@@ -47,6 +47,7 @@ streamlit run app.py
 Place your .h5 models in a folder named models/ like this:
 
 models/
+
 ├── digitSignLanguage.h5
 
 ├── americanSignLanguage.h5
